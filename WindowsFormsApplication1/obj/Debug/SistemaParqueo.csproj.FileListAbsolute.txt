@@ -1,0 +1,822 @@
+D:\JP\PROYECTOS\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\JP\PROYECTOS\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\JP\PROYECTOS\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\JP\PROYECTOS\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\JP\PROYECTOS\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\JP\PROYECTOS\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csprojResolveAssemblyReference.cache
+D:\JP\PROYECTOS\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\JP\PROYECTOS\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\JP\PROYECTOS\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csproj.GenerateResource.Cache
+D:\parqueo\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\parqueo\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\parqueo\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\parqueo\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\parqueo\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\parqueo\Parqueov1\WindowsFormsApplication1\bin\Debug\DevComponents.DotNetBar2.dll
+D:\parqueo\Parqueov1\WindowsFormsApplication1\bin\Debug\DevComponents.DotNetBar2.xml
+D:\parqueo\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csprojResolveAssemblyReference.cache
+D:\parqueo\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\parqueo\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\parqueo\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csproj.GenerateResource.Cache
+D:\parqueo\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.exe
+D:\parqueo\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.exe
+D:\parqueo\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.pdb
+D:\parqueo\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.pdb
+D:\JP\parqueo08112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\JP\parqueo08112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\JP\parqueo08112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\JP\parqueo08112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\JP\parqueo08112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\JP\parqueo08112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\DevComponents.DotNetBar2.dll
+D:\JP\parqueo08112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.exe
+D:\JP\parqueo08112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.exe
+D:\JP\parqueo08112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.pdb
+D:\JP\parqueo08112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.pdb
+D:\JP\parqueo08112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\DevComponents.DotNetBar2.xml
+D:\JP\parqueo08112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csprojResolveAssemblyReference.cache
+D:\JP\parqueo08112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\JP\parqueo08112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\JP\parqueo08112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csproj.GenerateResource.Cache
+D:\JP\parqueo08112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+D:\JP\parqueo08112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\JP\parqueo08112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\JP\parqueo08112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\DevComponents.Instrumentation.dll
+D:\JP\parqueo08112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+D:\JP\parqueo08112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\DevComponents.Instrumentation.xml
+D:\JP\parqueo09112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csprojResolveAssemblyReference.cache
+D:\JP\parqueo09112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\JP\parqueo09112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\JP\parqueo09112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csproj.GenerateResource.Cache
+D:\JP\parqueo09112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\JP\parqueo09112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\JP\parqueo09112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\JP\parqueo09112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+D:\JP\parqueo09112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\JP\parqueo09112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\DevComponents.DotNetBar2.dll
+D:\JP\parqueo09112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\DevComponents.Instrumentation.dll
+D:\JP\parqueo09112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.exe
+D:\JP\parqueo09112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.exe
+D:\JP\parqueo09112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.pdb
+D:\JP\parqueo09112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.pdb
+D:\JP\parqueo09112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\JP\parqueo09112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+D:\JP\parqueo09112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\DevComponents.DotNetBar2.xml
+D:\JP\parqueo09112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\DevComponents.Instrumentation.xml
+D:\JP\parqueo09112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\JP\parqueo09112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\JP\parqueo11112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\JP\parqueo11112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\JP\parqueo11112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\JP\parqueo11112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\JP\parqueo11112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\JP\parqueo11112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+D:\JP\parqueo11112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\JP\parqueo11112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\DevComponents.DotNetBar2.dll
+D:\JP\parqueo11112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\DevComponents.Instrumentation.dll
+D:\JP\parqueo11112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.exe
+D:\JP\parqueo11112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.exe
+D:\JP\parqueo11112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.pdb
+D:\JP\parqueo11112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.pdb
+D:\JP\parqueo11112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\JP\parqueo11112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+D:\JP\parqueo11112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\DevComponents.DotNetBar2.xml
+D:\JP\parqueo11112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\DevComponents.Instrumentation.xml
+D:\JP\parqueo11112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\JP\parqueo11112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\JP\parqueo11112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csproj.GenerateResource.Cache
+D:\JP\parqueo11112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csprojResolveAssemblyReference.cache
+D:\JP\parqueo16112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\JP\parqueo16112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\JP\parqueo16112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\JP\parqueo16112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+D:\JP\parqueo16112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\JP\parqueo16112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\DevComponents.DotNetBar2.dll
+D:\JP\parqueo16112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\DevComponents.Instrumentation.dll
+D:\JP\parqueo16112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.exe
+D:\JP\parqueo16112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.exe
+D:\JP\parqueo16112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.pdb
+D:\JP\parqueo16112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.pdb
+D:\JP\parqueo16112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\JP\parqueo16112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+D:\JP\parqueo16112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\DevComponents.DotNetBar2.xml
+D:\JP\parqueo16112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\DevComponents.Instrumentation.xml
+D:\JP\parqueo16112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csprojResolveAssemblyReference.cache
+D:\JP\parqueo16112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\JP\parqueo16112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\JP\parqueo16112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csproj.GenerateResource.Cache
+D:\JP\parqueo16112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\JP\parqueo16112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\JP\parqueo20112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\JP\parqueo20112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\JP\parqueo20112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\JP\parqueo2311202\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\JP\parqueo2311202\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csprojResolveAssemblyReference.cache
+D:\JP\parqueo2311202\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\JP\parqueo2311202\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\JP\parqueo2311202\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csproj.GenerateResource.Cache
+D:\JP\parqueo2311202\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\JP\parqueo2311202\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\JP\parqueo2311202\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.exe
+D:\JP\parqueo2311202\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.exe
+D:\JP\parqueo2311202\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.pdb
+D:\JP\parqueo2311202\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.pdb
+D:\JP\parqueo2311202\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\JP\parqueo2311202\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\JP\parqueo2411202\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\JP\parqueo2411202\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\JP\parqueo2411202\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\JP\parqueo2411202\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csprojResolveAssemblyReference.cache
+D:\JP\parqueo2411202\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\JP\parqueo2411202\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\JP\parqueo2411202\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csproj.GenerateResource.Cache
+D:\JP\parqueo2411202\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\JP\parqueo2411202\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\JP\parqueo2411202\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.exe
+D:\JP\parqueo2411202\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.exe
+D:\JP\parqueo2411202\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.pdb
+D:\JP\parqueo2411202\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.pdb
+D:\JP\parqueo2411202\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.asignacion_equipo.resources
+D:\JP\parqueo2511202\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\JP\parqueo2511202\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\JP\parqueo2511202\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\JP\parqueo2511202\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.exe
+D:\JP\parqueo2511202\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.exe
+D:\JP\parqueo2511202\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.pdb
+D:\JP\parqueo2511202\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.pdb
+D:\JP\parqueo2511202\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csprojResolveAssemblyReference.cache
+D:\JP\parqueo2511202\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\JP\parqueo2511202\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\JP\parqueo2511202\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_equipo.resources
+D:\JP\parqueo2511202\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csproj.GenerateResource.Cache
+D:\JP\parqueo2511202\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+D:\JP\parqueo2511202\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+D:\JP\parqueo2511202\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\JP\parqueo2511202\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\JP\27112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\JP\27112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\JP\27112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\JP\27112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.exe
+D:\JP\27112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.exe
+D:\JP\27112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.pdb
+D:\JP\27112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.pdb
+D:\JP\27112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csprojResolveAssemblyReference.cache
+D:\JP\27112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\JP\27112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\JP\27112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_equipo.resources
+D:\JP\27112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_soft.resources
+D:\JP\27112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form5CatRep.resources
+D:\JP\27112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormEquipoRep.resources
+D:\JP\27112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormSoftRep.resources
+D:\JP\27112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csproj.GenerateResource.Cache
+D:\JP\27112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+D:\JP\27112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+D:\JP\27112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\JP\27112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\JP\27112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form6Sede.resources
+D:\JP\27112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form7Instancia.resources
+D:\JP\27112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form8Personal.resources
+D:\JP\27112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form9Perfil.resources
+D:\JP\29112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\JP\29112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\JP\29112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\JP\29112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.exe
+D:\JP\29112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.exe
+D:\JP\29112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.pdb
+D:\JP\29112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.pdb
+D:\JP\29112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\JP\29112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\JP\29112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_equipo.resources
+D:\JP\29112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_soft.resources
+D:\JP\29112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form5CatRep.resources
+D:\JP\29112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form7Instancia.resources
+D:\JP\29112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form6Sede.resources
+D:\JP\29112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form8Personal.resources
+D:\JP\29112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form9Perfil.resources
+D:\JP\29112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormEquipoRep.resources
+D:\JP\29112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormSoftRep.resources
+D:\JP\29112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csproj.GenerateResource.Cache
+D:\JP\29112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+D:\JP\29112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+D:\JP\29112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\JP\29112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\JP\29112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csprojResolveAssemblyReference.cache
+D:\JP\30112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\JP\30112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\JP\30112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\JP\30112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.exe
+D:\JP\30112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.exe
+D:\JP\30112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.pdb
+D:\JP\30112021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.pdb
+D:\JP\30112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\JP\30112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\JP\30112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_equipo.resources
+D:\JP\30112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_soft.resources
+D:\JP\30112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form5CatRep.resources
+D:\JP\30112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form7Instancia.resources
+D:\JP\30112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form6Sede.resources
+D:\JP\30112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form8Personal.resources
+D:\JP\30112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form9Perfil.resources
+D:\JP\30112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormEquipoRep.resources
+D:\JP\30112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormSoftRep.resources
+D:\JP\30112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csproj.GenerateResource.Cache
+D:\JP\30112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+D:\JP\30112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+D:\JP\30112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\JP\30112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\JP\30112021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csprojResolveAssemblyReference.cache
+D:\JP\02122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\JP\02122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\JP\02122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\JP\02122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.exe
+D:\JP\02122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.exe
+D:\JP\02122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.pdb
+D:\JP\02122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.pdb
+D:\JP\02122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csprojResolveAssemblyReference.cache
+D:\JP\02122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\JP\02122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\JP\02122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_equipo.resources
+D:\JP\02122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_soft.resources
+D:\JP\02122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form5CatRep.resources
+D:\JP\02122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form7Instancia.resources
+D:\JP\02122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form6Sede.resources
+D:\JP\02122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form8Personal.resources
+D:\JP\02122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form9Perfil.resources
+D:\JP\02122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormEquipoRep.resources
+D:\JP\02122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormSoftRep.resources
+D:\JP\02122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csproj.GenerateResource.Cache
+D:\JP\02122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+D:\JP\02122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+D:\JP\02122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\JP\02122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\parqueo\PARQUEO 03122021\PARQUEO 03122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\parqueo\PARQUEO 03122021\PARQUEO 03122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\parqueo\PARQUEO 03122021\PARQUEO 03122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\parqueo\PARQUEO 03122021\PARQUEO 03122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.exe
+D:\parqueo\PARQUEO 03122021\PARQUEO 03122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.exe
+D:\parqueo\PARQUEO 03122021\PARQUEO 03122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.pdb
+D:\parqueo\PARQUEO 03122021\PARQUEO 03122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.pdb
+D:\parqueo\PARQUEO 03122021\PARQUEO 03122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csprojResolveAssemblyReference.cache
+D:\parqueo\PARQUEO 03122021\PARQUEO 03122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\parqueo\PARQUEO 03122021\PARQUEO 03122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\parqueo\PARQUEO 03122021\PARQUEO 03122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_equipo.resources
+D:\parqueo\PARQUEO 03122021\PARQUEO 03122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_soft.resources
+D:\parqueo\PARQUEO 03122021\PARQUEO 03122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form5CatRep.resources
+D:\parqueo\PARQUEO 03122021\PARQUEO 03122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form7Instancia.resources
+D:\parqueo\PARQUEO 03122021\PARQUEO 03122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form6Sede.resources
+D:\parqueo\PARQUEO 03122021\PARQUEO 03122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form8Personal.resources
+D:\parqueo\PARQUEO 03122021\PARQUEO 03122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form9Perfil.resources
+D:\parqueo\PARQUEO 03122021\PARQUEO 03122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormEquipoRep.resources
+D:\parqueo\PARQUEO 03122021\PARQUEO 03122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormSoftRep.resources
+D:\parqueo\PARQUEO 03122021\PARQUEO 03122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csproj.GenerateResource.Cache
+D:\parqueo\PARQUEO 03122021\PARQUEO 03122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+D:\parqueo\PARQUEO 03122021\PARQUEO 03122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+D:\parqueo\PARQUEO 03122021\PARQUEO 03122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\parqueo\PARQUEO 03122021\PARQUEO 03122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\JP\PARQUEO02  06122021\PARQUEO 06122021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\JP\PARQUEO02  06122021\PARQUEO 06122021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\JP\PARQUEO02  06122021\PARQUEO 06122021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\JP\PARQUEO02  06122021\PARQUEO 06122021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.exe
+D:\JP\PARQUEO02  06122021\PARQUEO 06122021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.exe
+D:\JP\PARQUEO02  06122021\PARQUEO 06122021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.pdb
+D:\JP\PARQUEO02  06122021\PARQUEO 06122021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.pdb
+D:\JP\PARQUEO02  06122021\PARQUEO 06122021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csprojResolveAssemblyReference.cache
+D:\JP\PARQUEO02  06122021\PARQUEO 06122021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\JP\PARQUEO02  06122021\PARQUEO 06122021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\JP\PARQUEO02  06122021\PARQUEO 06122021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_equipo.resources
+D:\JP\PARQUEO02  06122021\PARQUEO 06122021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_soft.resources
+D:\JP\PARQUEO02  06122021\PARQUEO 06122021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form5CatRep.resources
+D:\JP\PARQUEO02  06122021\PARQUEO 06122021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form7Instancia.resources
+D:\JP\PARQUEO02  06122021\PARQUEO 06122021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form6Sede.resources
+D:\JP\PARQUEO02  06122021\PARQUEO 06122021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form8Personal.resources
+D:\JP\PARQUEO02  06122021\PARQUEO 06122021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form9Perfil.resources
+D:\JP\PARQUEO02  06122021\PARQUEO 06122021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormEquipoRep.resources
+D:\JP\PARQUEO02  06122021\PARQUEO 06122021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormSoftRep.resources
+D:\JP\PARQUEO02  06122021\PARQUEO 06122021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csproj.GenerateResource.Cache
+D:\JP\PARQUEO02  06122021\PARQUEO 06122021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+D:\JP\PARQUEO02  06122021\PARQUEO 06122021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+D:\JP\PARQUEO02  06122021\PARQUEO 06122021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\JP\PARQUEO02  06122021\PARQUEO 06122021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\JP\PARQUEO03 09 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\JP\PARQUEO03 09 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\JP\PARQUEO03 09 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\JP\PARQUEO03 09 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.exe
+D:\JP\PARQUEO03 09 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.exe
+D:\JP\PARQUEO03 09 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.pdb
+D:\JP\PARQUEO03 09 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.pdb
+D:\JP\PARQUEO03 09 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csprojResolveAssemblyReference.cache
+D:\JP\PARQUEO03 09 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\JP\PARQUEO03 09 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\JP\PARQUEO03 09 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_equipo.resources
+D:\JP\PARQUEO03 09 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_soft.resources
+D:\JP\PARQUEO03 09 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form5CatRep.resources
+D:\JP\PARQUEO03 09 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form7Instancia.resources
+D:\JP\PARQUEO03 09 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form6Sede.resources
+D:\JP\PARQUEO03 09 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form8Personal.resources
+D:\JP\PARQUEO03 09 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form9Perfil.resources
+D:\JP\PARQUEO03 09 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormEquipoRep.resources
+D:\JP\PARQUEO03 09 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormSoftRep.resources
+D:\JP\PARQUEO03 09 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csproj.GenerateResource.Cache
+D:\JP\PARQUEO03 09 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+D:\JP\PARQUEO03 09 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+D:\JP\PARQUEO03 09 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\JP\PARQUEO03 09 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\parqueo\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\parqueo\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\parqueo\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\parqueo\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.exe
+D:\parqueo\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.exe
+D:\parqueo\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.pdb
+D:\parqueo\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.pdb
+D:\parqueo\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csprojResolveAssemblyReference.cache
+D:\parqueo\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\parqueo\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\parqueo\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_equipo.resources
+D:\parqueo\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_soft.resources
+D:\parqueo\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form5CatRep.resources
+D:\parqueo\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form7Instancia.resources
+D:\parqueo\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form6Sede.resources
+D:\parqueo\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form8Personal.resources
+D:\parqueo\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form9Perfil.resources
+D:\parqueo\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormEquipoRep.resources
+D:\parqueo\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormSoftRep.resources
+D:\parqueo\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csproj.GenerateResource.Cache
+D:\parqueo\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+D:\parqueo\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+D:\parqueo\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\parqueo\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\JP\PARQUEO03 12 12 2021\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\JP\PARQUEO03 12 12 2021\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\JP\PARQUEO03 12 12 2021\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\JP\PARQUEO03 12 12 2021\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.exe
+D:\JP\PARQUEO03 12 12 2021\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.exe
+D:\JP\PARQUEO03 12 12 2021\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.pdb
+D:\JP\PARQUEO03 12 12 2021\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.pdb
+D:\JP\PARQUEO03 12 12 2021\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csprojResolveAssemblyReference.cache
+D:\JP\PARQUEO03 12 12 2021\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\JP\PARQUEO03 12 12 2021\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\JP\PARQUEO03 12 12 2021\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_equipo.resources
+D:\JP\PARQUEO03 12 12 2021\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_soft.resources
+D:\JP\PARQUEO03 12 12 2021\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form5CatRep.resources
+D:\JP\PARQUEO03 12 12 2021\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form7Instancia.resources
+D:\JP\PARQUEO03 12 12 2021\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form6Sede.resources
+D:\JP\PARQUEO03 12 12 2021\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form8Personal.resources
+D:\JP\PARQUEO03 12 12 2021\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form9Perfil.resources
+D:\JP\PARQUEO03 12 12 2021\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormEquipoRep.resources
+D:\JP\PARQUEO03 12 12 2021\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormSoftRep.resources
+D:\JP\PARQUEO03 12 12 2021\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csproj.GenerateResource.Cache
+D:\JP\PARQUEO03 12 12 2021\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+D:\JP\PARQUEO03 12 12 2021\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+D:\JP\PARQUEO03 12 12 2021\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\JP\PARQUEO03 12 12 2021\PARQUEO03 12 12 2021\PARQUEO03 10 12 2021\PARQUEO 09122021 PARQUE03 09 12 2021\PARQUEO 06122021\03122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\JP\PARQUEO03 13 12 2021\PARQUEO03 12 13 2021\PARQUEO03 13 12 2021\PARQUEO 09122021 PARQUE03 13 12 2021\PARQUEO 13122021\13122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Reports\Report2Sof.rdlc
+D:\JP\PARQUEO03 13 12 2021\PARQUEO03 12 13 2021\PARQUEO03 13 12 2021\PARQUEO 09122021 PARQUE03 13 12 2021\PARQUEO 13122021\13122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\JP\PARQUEO03 13 12 2021\PARQUEO03 12 13 2021\PARQUEO03 13 12 2021\PARQUEO 09122021 PARQUE03 13 12 2021\PARQUEO 13122021\13122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\JP\PARQUEO03 13 12 2021\PARQUEO03 12 13 2021\PARQUEO03 13 12 2021\PARQUEO 09122021 PARQUE03 13 12 2021\PARQUEO 13122021\13122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\JP\PARQUEO03 13 12 2021\PARQUEO03 12 13 2021\PARQUEO03 13 12 2021\PARQUEO 09122021 PARQUE03 13 12 2021\PARQUEO 13122021\13122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\CrystalDecisions.Shared.dll
+D:\JP\PARQUEO03 13 12 2021\PARQUEO03 12 13 2021\PARQUEO03 13 12 2021\PARQUEO 09122021 PARQUE03 13 12 2021\PARQUEO 13122021\13122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.exe
+D:\JP\PARQUEO03 13 12 2021\PARQUEO03 12 13 2021\PARQUEO03 13 12 2021\PARQUEO 09122021 PARQUE03 13 12 2021\PARQUEO 13122021\13122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.exe
+D:\JP\PARQUEO03 13 12 2021\PARQUEO03 12 13 2021\PARQUEO03 13 12 2021\PARQUEO 09122021 PARQUE03 13 12 2021\PARQUEO 13122021\13122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.pdb
+D:\JP\PARQUEO03 13 12 2021\PARQUEO03 12 13 2021\PARQUEO03 13 12 2021\PARQUEO 09122021 PARQUE03 13 12 2021\PARQUEO 13122021\13122021\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.pdb
+D:\JP\PARQUEO03 13 12 2021\PARQUEO03 12 13 2021\PARQUEO03 13 12 2021\PARQUEO 09122021 PARQUE03 13 12 2021\PARQUEO 13122021\13122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csprojResolveAssemblyReference.cache
+D:\JP\PARQUEO03 13 12 2021\PARQUEO03 12 13 2021\PARQUEO03 13 12 2021\PARQUEO 09122021 PARQUE03 13 12 2021\PARQUEO 13122021\13122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\JP\PARQUEO03 13 12 2021\PARQUEO03 12 13 2021\PARQUEO03 13 12 2021\PARQUEO 09122021 PARQUE03 13 12 2021\PARQUEO 13122021\13122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\JP\PARQUEO03 13 12 2021\PARQUEO03 12 13 2021\PARQUEO03 13 12 2021\PARQUEO 09122021 PARQUE03 13 12 2021\PARQUEO 13122021\13122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_equipo.resources
+D:\JP\PARQUEO03 13 12 2021\PARQUEO03 12 13 2021\PARQUEO03 13 12 2021\PARQUEO 09122021 PARQUE03 13 12 2021\PARQUEO 13122021\13122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_soft.resources
+D:\JP\PARQUEO03 13 12 2021\PARQUEO03 12 13 2021\PARQUEO03 13 12 2021\PARQUEO 09122021 PARQUE03 13 12 2021\PARQUEO 13122021\13122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form5CatRep.resources
+D:\JP\PARQUEO03 13 12 2021\PARQUEO03 12 13 2021\PARQUEO03 13 12 2021\PARQUEO 09122021 PARQUE03 13 12 2021\PARQUEO 13122021\13122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form7Instancia.resources
+D:\JP\PARQUEO03 13 12 2021\PARQUEO03 12 13 2021\PARQUEO03 13 12 2021\PARQUEO 09122021 PARQUE03 13 12 2021\PARQUEO 13122021\13122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form6Sede.resources
+D:\JP\PARQUEO03 13 12 2021\PARQUEO03 12 13 2021\PARQUEO03 13 12 2021\PARQUEO 09122021 PARQUE03 13 12 2021\PARQUEO 13122021\13122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form8Personal.resources
+D:\JP\PARQUEO03 13 12 2021\PARQUEO03 12 13 2021\PARQUEO03 13 12 2021\PARQUEO 09122021 PARQUE03 13 12 2021\PARQUEO 13122021\13122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form9Perfil.resources
+D:\JP\PARQUEO03 13 12 2021\PARQUEO03 12 13 2021\PARQUEO03 13 12 2021\PARQUEO 09122021 PARQUE03 13 12 2021\PARQUEO 13122021\13122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormEquipoRep.resources
+D:\JP\PARQUEO03 13 12 2021\PARQUEO03 12 13 2021\PARQUEO03 13 12 2021\PARQUEO 09122021 PARQUE03 13 12 2021\PARQUEO 13122021\13122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormSoftRep.resources
+D:\JP\PARQUEO03 13 12 2021\PARQUEO03 12 13 2021\PARQUEO03 13 12 2021\PARQUEO 09122021 PARQUE03 13 12 2021\PARQUEO 13122021\13122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csproj.GenerateResource.Cache
+D:\JP\PARQUEO03 13 12 2021\PARQUEO03 12 13 2021\PARQUEO03 13 12 2021\PARQUEO 09122021 PARQUE03 13 12 2021\PARQUEO 13122021\13122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+D:\JP\PARQUEO03 13 12 2021\PARQUEO03 12 13 2021\PARQUEO03 13 12 2021\PARQUEO 09122021 PARQUE03 13 12 2021\PARQUEO 13122021\13122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+D:\JP\PARQUEO03 13 12 2021\PARQUEO03 12 13 2021\PARQUEO03 13 12 2021\PARQUEO 09122021 PARQUE03 13 12 2021\PARQUEO 13122021\13122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\JP\PARQUEO03 13 12 2021\PARQUEO03 12 13 2021\PARQUEO03 13 12 2021\PARQUEO 09122021 PARQUE03 13 12 2021\PARQUEO 13122021\13122021\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\JP\PARQUEO03 13 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\Reports\Report2Sof.rdlc
+D:\JP\PARQUEO03 13 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\JP\PARQUEO03 13 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\JP\PARQUEO03 13 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\JP\PARQUEO03 13 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\CrystalDecisions.Shared.dll
+D:\JP\PARQUEO03 13 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.exe
+D:\JP\PARQUEO03 13 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.exe
+D:\JP\PARQUEO03 13 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.pdb
+D:\JP\PARQUEO03 13 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.pdb
+D:\JP\PARQUEO03 13 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csprojResolveAssemblyReference.cache
+D:\JP\PARQUEO03 13 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\JP\PARQUEO03 13 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\JP\PARQUEO03 13 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_equipo.resources
+D:\JP\PARQUEO03 13 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_soft.resources
+D:\JP\PARQUEO03 13 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form5CatRep.resources
+D:\JP\PARQUEO03 13 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form7Instancia.resources
+D:\JP\PARQUEO03 13 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form6Sede.resources
+D:\JP\PARQUEO03 13 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form8Personal.resources
+D:\JP\PARQUEO03 13 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form9Perfil.resources
+D:\JP\PARQUEO03 13 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormEquipoRep.resources
+D:\JP\PARQUEO03 13 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormSoftRep.resources
+D:\JP\PARQUEO03 13 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csproj.GenerateResource.Cache
+D:\JP\PARQUEO03 13 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+D:\JP\PARQUEO03 13 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+D:\JP\PARQUEO03 13 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\JP\PARQUEO03 13 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\parqueo\Parqueov1_07012022\Parqueov1\WindowsFormsApplication1\bin\Debug\Reports\Report2Sof.rdlc
+D:\parqueo\Parqueov1_07012022\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\parqueo\Parqueov1_07012022\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\parqueo\Parqueov1_07012022\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\parqueo\Parqueov1_07012022\Parqueov1\WindowsFormsApplication1\bin\Debug\CrystalDecisions.Shared.dll
+D:\parqueo\Parqueov1_07012022\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.exe
+D:\parqueo\Parqueov1_07012022\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.exe
+D:\parqueo\Parqueov1_07012022\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.pdb
+D:\parqueo\Parqueov1_07012022\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.pdb
+D:\parqueo\Parqueov1_07012022\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csprojResolveAssemblyReference.cache
+D:\parqueo\Parqueov1_07012022\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\parqueo\Parqueov1_07012022\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\parqueo\Parqueov1_07012022\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_equipo.resources
+D:\parqueo\Parqueov1_07012022\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_soft.resources
+D:\parqueo\Parqueov1_07012022\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form5CatRep.resources
+D:\parqueo\Parqueov1_07012022\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form7Instancia.resources
+D:\parqueo\Parqueov1_07012022\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form6Sede.resources
+D:\parqueo\Parqueov1_07012022\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form8Personal.resources
+D:\parqueo\Parqueov1_07012022\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form9Perfil.resources
+D:\parqueo\Parqueov1_07012022\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormEquipoRep.resources
+D:\parqueo\Parqueov1_07012022\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormSoftRep.resources
+D:\parqueo\Parqueov1_07012022\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csproj.GenerateResource.Cache
+D:\parqueo\Parqueov1_07012022\Parqueov1\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+D:\parqueo\Parqueov1_07012022\Parqueov1\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+D:\parqueo\Parqueov1_07012022\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\parqueo\Parqueov1_07012022\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\parqueo\PARQUEO03 14 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\Reports\Report2Sof.rdlc
+D:\parqueo\PARQUEO03 14 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\parqueo\PARQUEO03 14 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\parqueo\PARQUEO03 14 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\parqueo\PARQUEO03 14 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\CrystalDecisions.Shared.dll
+D:\parqueo\PARQUEO03 14 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.exe
+D:\parqueo\PARQUEO03 14 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.exe
+D:\parqueo\PARQUEO03 14 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.pdb
+D:\parqueo\PARQUEO03 14 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.pdb
+D:\parqueo\PARQUEO03 14 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csprojResolveAssemblyReference.cache
+D:\parqueo\PARQUEO03 14 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\parqueo\PARQUEO03 14 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\parqueo\PARQUEO03 14 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_equipo.resources
+D:\parqueo\PARQUEO03 14 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_soft.resources
+D:\parqueo\PARQUEO03 14 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form5CatRep.resources
+D:\parqueo\PARQUEO03 14 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form7Instancia.resources
+D:\parqueo\PARQUEO03 14 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form6Sede.resources
+D:\parqueo\PARQUEO03 14 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form8Personal.resources
+D:\parqueo\PARQUEO03 14 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form9Perfil.resources
+D:\parqueo\PARQUEO03 14 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormEquipoRep.resources
+D:\parqueo\PARQUEO03 14 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormSoftRep.resources
+D:\parqueo\PARQUEO03 14 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csproj.GenerateResource.Cache
+D:\parqueo\PARQUEO03 14 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+D:\parqueo\PARQUEO03 14 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+D:\parqueo\PARQUEO03 14 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\parqueo\PARQUEO03 14 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\parqueo\PARQUEO03 17 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\parqueo\PARQUEO03 17 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\parqueo\PARQUEO03 17 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\parqueo\PARQUEO03 17 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\Reports\Report2Sof.rdlc
+D:\parqueo\PARQUEO03 17 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\parqueo\PARQUEO03 17 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\parqueo\PARQUEO03 17 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\CrystalDecisions.Shared.dll
+D:\parqueo\PARQUEO03 17 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.exe
+D:\parqueo\PARQUEO03 17 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.exe
+D:\parqueo\PARQUEO03 17 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.pdb
+D:\parqueo\PARQUEO03 17 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.pdb
+D:\parqueo\PARQUEO03 17 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csprojResolveAssemblyReference.cache
+D:\parqueo\PARQUEO03 17 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\parqueo\PARQUEO03 17 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\parqueo\PARQUEO03 17 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_equipo.resources
+D:\parqueo\PARQUEO03 17 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_soft.resources
+D:\parqueo\PARQUEO03 17 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form5CatRep.resources
+D:\parqueo\PARQUEO03 17 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form7Instancia.resources
+D:\parqueo\PARQUEO03 17 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form6Sede.resources
+D:\parqueo\PARQUEO03 17 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form8Personal.resources
+D:\parqueo\PARQUEO03 17 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form9Perfil.resources
+D:\parqueo\PARQUEO03 17 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormEquipoRep.resources
+D:\parqueo\PARQUEO03 17 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormSoftRep.resources
+D:\parqueo\PARQUEO03 17 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csproj.GenerateResource.Cache
+D:\parqueo\PARQUEO03 17 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+D:\parqueo\PARQUEO03 17 01 2022\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+D:\JP\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\Reports\Report2Sof.rdlc
+D:\JP\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\JP\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\JP\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\CrystalDecisions.Shared.dll
+D:\JP\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.exe
+D:\JP\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.exe
+D:\JP\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csprojResolveAssemblyReference.cache
+D:\JP\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_equipo.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_soft.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form5CatRep.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form7Instancia.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form6Sede.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form8Personal.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form9Perfil.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormEquipoRep.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormSoftRep.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csproj.GenerateResource.Cache
+D:\JP\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+D:\JP\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+D:\JP\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\JP\PARQUEO03 30 12 2021\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\parqueo\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Reports\Report2Sof.rdlc
+D:\parqueo\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\parqueo\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\parqueo\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\parqueo\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\CrystalDecisions.Shared.dll
+D:\parqueo\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.exe
+D:\parqueo\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.exe
+D:\parqueo\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Models.pdb
+D:\parqueo\Parqueov1\Parqueov1\WindowsFormsApplication1\bin\Debug\Viewmodels.pdb
+D:\parqueo\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csprojResolveAssemblyReference.cache
+D:\parqueo\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\parqueo\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\parqueo\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_equipo.resources
+D:\parqueo\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_soft.resources
+D:\parqueo\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form5CatRep.resources
+D:\parqueo\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form7Instancia.resources
+D:\parqueo\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form6Sede.resources
+D:\parqueo\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form8Personal.resources
+D:\parqueo\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form9Perfil.resources
+D:\parqueo\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormEquipoRep.resources
+D:\parqueo\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormSoftRep.resources
+D:\parqueo\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csproj.GenerateResource.Cache
+D:\parqueo\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+D:\parqueo\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+D:\parqueo\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\parqueo\Parqueov1\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.1\WindowsFormsApplication1\bin\Debug\Reports\Report2Sof.rdlc
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.1\WindowsFormsApplication1\bin\Debug\CrystalDecisions.Shared.dll
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.1\WindowsFormsApplication1\bin\Debug\Models.exe
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.1\WindowsFormsApplication1\bin\Debug\Viewmodels.exe
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.1\WindowsFormsApplication1\bin\Debug\Models.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.1\WindowsFormsApplication1\bin\Debug\Viewmodels.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csprojResolveAssemblyReference.cache
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_equipo.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_equipo_Rsm.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_soft.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form5CatRep.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form7Instancia.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form6Sede.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form8Personal.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form9Perfil.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormEquipoRep.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormSoftRep.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.1\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csproj.GenerateResource.Cache
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.1\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.1\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\bin\Debug\Reports\Report2Sof.rdlc
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\bin\Debug\CircularProgressBar.dll
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\bin\Debug\Common.dll
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\bin\Debug\CrystalDecisions.Shared.dll
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\bin\Debug\Domain.dll
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\bin\Debug\Models.exe
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\bin\Debug\Viewmodels.exe
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\bin\Debug\WinFormAnimation.dll
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\bin\Debug\DataAccess.dll
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\bin\Debug\Models.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\bin\Debug\Viewmodels.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\bin\Debug\CircularProgressBar.xml
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\bin\Debug\Common.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\bin\Debug\Domain.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\bin\Debug\DataAccess.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csprojResolveAssemblyReference.cache
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.ChildForms.FormRecoverPassword.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.ChildForms.FormUserMaintenance.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.ChildForms.FormUserProfile.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.ChildForms.FormUsers.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.ChildForms.FormVerifyUser.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.LoginForm.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.WelcomeForm.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_equipo.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_equipo_Rsm.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_soft.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form5CatRep.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form7Instancia.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form6Sede.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form8Personal.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form9Perfil.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormEquipoRep.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormSoftRep.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csproj.GenerateResource.Cache
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\bin\Debug\Reports\Report2Sof.rdlc
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\bin\Debug\CircularProgressBar.dll
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\bin\Debug\Common.dll
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\bin\Debug\CrystalDecisions.Shared.dll
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\bin\Debug\Domain.dll
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\bin\Debug\Models.exe
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\bin\Debug\Viewmodels.exe
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\bin\Debug\WinFormAnimation.dll
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\bin\Debug\DataAccess.dll
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\bin\Debug\Models.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\bin\Debug\Viewmodels.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\bin\Debug\CircularProgressBar.xml
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\bin\Debug\Common.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\bin\Debug\Domain.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\bin\Debug\DataAccess.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csprojResolveAssemblyReference.cache
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.ChildForms.FormRecoverPassword.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.ChildForms.FormUserMaintenance.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.ChildForms.FormUserProfile.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.ChildForms.FormUsers.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.ChildForms.FormVerifyUser.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.LoginForm.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.WelcomeForm.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_equipo.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_equipo_Rsm.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_soft.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormListaPersona.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form10MovEquipo.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form11MovEqRep.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form5CatRep.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form7Instancia.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form6Sede.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form8Personal.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form9Perfil.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormEquipoRep.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormListaEquipo.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormSoftRep.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csproj.GenerateResource.Cache
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\bin\Debug\Reports\Report2Sof.rdlc
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\bin\Debug\CircularProgressBar.dll
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\bin\Debug\Common.dll
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\bin\Debug\CrystalDecisions.Shared.dll
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\bin\Debug\Domain.dll
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\bin\Debug\Models.exe
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\bin\Debug\Viewmodels.exe
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\bin\Debug\WinFormAnimation.dll
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\bin\Debug\DataAccess.dll
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\bin\Debug\Models.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\bin\Debug\Viewmodels.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\bin\Debug\CircularProgressBar.xml
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\bin\Debug\Common.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\bin\Debug\Domain.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\bin\Debug\DataAccess.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csprojResolveAssemblyReference.cache
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.ChildForms.FormRecoverPassword.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.ChildForms.FormUserMaintenance.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.ChildForms.FormUserProfile.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.ChildForms.FormUsers.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.ChildForms.FormVerifyUser.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.LoginForm.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.WelcomeForm.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_equipo.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_equipo_Rsm.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_soft.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form10ActaEntrega.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form10ActaEntregaRV.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormListaPersona.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form10MovEquipo.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form11MovEqRep.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form5CatRep.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form7Instancia.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form6Sede.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form8Personal.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form9Perfil.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormEquipoRep.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormListaEquipo.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormSoftRep.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csproj.GenerateResource.Cache
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\bin\Debug\Reports\Report2Sof.rdlc
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\bin\Debug\CircularProgressBar.dll
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\bin\Debug\Common.dll
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\bin\Debug\CrystalDecisions.Shared.dll
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\bin\Debug\Domain.dll
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\bin\Debug\Models.exe
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\bin\Debug\Viewmodels.exe
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\bin\Debug\WinFormAnimation.dll
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\bin\Debug\DataAccess.dll
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\bin\Debug\Models.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\bin\Debug\Viewmodels.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\bin\Debug\CircularProgressBar.xml
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\bin\Debug\Common.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\bin\Debug\Domain.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\bin\Debug\DataAccess.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csprojResolveAssemblyReference.cache
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.ChildForms.FormRecoverPassword.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.ChildForms.FormUserMaintenance.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.ChildForms.FormUserProfile.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.ChildForms.FormUsers.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.ChildForms.FormVerifyUser.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.LoginForm.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.WelcomeForm.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_equipo.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_equipo_Rsm.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_soft.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form10ActaEntrega.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form10ActaEntregaRV.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormListaPersona.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form10MovEquipo.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form11MovEqRep.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form5CatRep.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form7Instancia.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form6Sede.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form8Personal.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form9Perfil.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormEquipoRep.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormListaEquipo.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormSoftRep.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csproj.GenerateResource.Cache
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\bin\Debug\Reports\Report2Sof.rdlc
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\bin\Debug\CircularProgressBar.dll
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\bin\Debug\Common.dll
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\bin\Debug\CrystalDecisions.Shared.dll
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\bin\Debug\Domain.dll
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\bin\Debug\Models.exe
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\bin\Debug\Viewmodels.exe
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\bin\Debug\WinFormAnimation.dll
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\bin\Debug\DataAccess.dll
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\bin\Debug\Models.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\bin\Debug\Viewmodels.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\bin\Debug\CircularProgressBar.xml
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\bin\Debug\Common.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\bin\Debug\Domain.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\bin\Debug\DataAccess.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csprojResolveAssemblyReference.cache
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.ChildForms.FormRecoverPassword.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.ChildForms.FormUserMaintenance.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.ChildForms.FormUserProfile.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.ChildForms.FormUsers.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Login.ChildForms.FormVerifyUser.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.LoginForm.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.WelcomeForm.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_equipo.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_equipo_Rsm.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Asignacion_soft.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form10ActaEntrega.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form10ActaEntregaRV.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormListaPersona.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form10MovEquipo.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form11MovEqRep.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form5CatRep.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form7Instancia.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form6Sede.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form8Personal.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.Form9Perfil.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormEquipoRep.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormListaEquipo.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Reports.FormSoftRep.resources
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\obj\Debug\SistemaParqueo.csproj.GenerateResource.Cache
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 28 03 2020\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 30 03 2020\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 30 03 2020\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\JP\PARQUEO03 30 12 2021\Parqueov1.3 - copia - copia - copia 30 03 2020\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

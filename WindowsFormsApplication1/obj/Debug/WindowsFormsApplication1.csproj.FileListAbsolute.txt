@@ -1,0 +1,11 @@
+D:\JP\PROYECTOS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\JP\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\JP\PROYECTOS\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\JP\PROYECTOS\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\JP\PROYECTOS\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\JP\PROYECTOS\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\JP\PROYECTOS\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\JP\PROYECTOS\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\JP\PROYECTOS\Parqueov1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\JP\PROYECTOS\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\JP\PROYECTOS\Parqueov1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

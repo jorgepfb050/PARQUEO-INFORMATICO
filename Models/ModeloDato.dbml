@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="PARQUEO03_30122021_prueba" Class="ModeloDatoDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=172.17.208.73;Initial Catalog=PARQUEO03_30122021_prueba;Persist Security Info=True;User ID=sa" SettingsObjectName="Models.Properties.Settings" SettingsPropertyName="PARQUEO03_30122021_pruebaConnectionString2" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Categoria" Member="Categorias">
+    <Type Name="Categoria">
+      <Column Name="cod_categoria" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="categoria" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="activo" Type="System.String" DbType="VarChar(3)" CanBeNull="true" />
+      <Column Name="observacion" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Association Name="Categoria_Equipo" Member="Equipos" ThisKey="cod_categoria" OtherKey="cod_categoria" Type="Equipo" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Users" Member="Users">
+    <Type Name="User">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="userName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="password" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="firstName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="lastName" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="position" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="email" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="profilePicture" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX)" CanBeNull="true" UpdateCheck="Never" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Distrito" Member="Distritos">
+    <Type Name="Distrito">
+      <Column Name="c_distrito" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="x_nom_distrito" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Association Name="Distrito_Provincia" Member="Provincias" ThisKey="c_distrito" OtherKey="c_distrito" Type="Provincia" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Equipo" Member="Equipos">
+    <Type Name="Equipo">
+      <Column Name="cod_equipo" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="equipoPadreCod" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="equipo" Type="System.String" DbType="VarChar(200) NOT NULL" CanBeNull="false" />
+      <Column Name="ip_equipo" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="marca" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="modelo" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="procesador" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="nro_serie" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="nro_control_patrimonial" Type="System.String" DbType="VarChar(1000)" CanBeNull="true" />
+      <Column Name="anio_adquisicion" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="nro_orden_compra" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="activo" Type="System.String" DbType="VarChar(3) NOT NULL" CanBeNull="false" />
+      <Column Name="cod_categoria" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="observacion" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="fecha_desactivacion" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="estado" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="service_tag" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="funcionamiento" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Association Name="Equipo_Equipo_software" Member="Equipo_softwares" ThisKey="cod_equipo" OtherKey="cod_equipo" Type="Equipo_software" />
+      <Association Name="Equipo_Registro" Member="Registros" ThisKey="cod_equipo" OtherKey="cod_equipo" Type="Registro" />
+      <Association Name="Categoria_Equipo" Member="Categoria" ThisKey="cod_categoria" OtherKey="cod_categoria" Type="Categoria" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Equipo_software" Member="Equipo_softwares">
+    <Type Name="Equipo_software">
+      <Column Name="cod_equipo_software" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="cod_software" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="cod_equipo" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="fecha_instalacion" Type="System.String" DbType="VarChar(45)" CanBeNull="true" />
+      <Column Name="fecha_caducidad" Type="System.String" DbType="VarChar(45)" CanBeNull="true" />
+      <Column Name="observacion" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Association Name="Equipo_Equipo_software" Member="Equipo" ThisKey="cod_equipo" OtherKey="cod_equipo" Type="Equipo" IsForeignKey="true" />
+      <Association Name="Software_Equipo_software" Member="Software" ThisKey="cod_software" OtherKey="cod_software" Type="Software" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Historico_registro_equipo" Member="Historico_registro_equipos">
+    <Type Name="Historico_registro_equipo">
+      <Column Name="doc_entry_hist_Reg_Eq" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="cod_registro" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="doc_entry_personal" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="cod_equipo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="fecha_registro" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="fecha_sistema" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="observacion_registro" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="c_usuario" Type="System.String" DbType="VarChar(18)" CanBeNull="true" />
+      <Column Name="c_nombres" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="c_ape_paterno" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="c_ape_materno" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="fecha_ingreso" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="c_perfil" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="estado_personal" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="dni" Type="System.String" DbType="VarChar(14)" CanBeNull="true" />
+      <Column Name="c_sede" Type="System.String" DbType="VarChar(300)" CanBeNull="true" />
+      <Column Name="c_instancia" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="fecha_nacimiento" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="escalafon" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="fecha_ingreso_lab" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="fecha_termino_lab" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="nombre_completo" Type="System.String" DbType="VarChar(400)" CanBeNull="true" />
+      <Column Name="unidad_organica" Type="System.String" DbType="VarChar(400)" CanBeNull="true" />
+      <Column Name="area" Type="System.String" DbType="VarChar(400)" CanBeNull="true" />
+      <Column Name="tipo_personal" Type="System.String" DbType="VarChar(3)" CanBeNull="true" />
+      <Column Name="equipoPadreCod" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="equipo" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="ip_equipo" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="marca" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="modelo" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="procesador" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="nro_serie" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="nro_control_patrimonial" Type="System.String" DbType="VarChar(1000)" CanBeNull="true" />
+      <Column Name="anio_adquisicion" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="nro_orden_compra" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="activo" Type="System.String" DbType="VarChar(3)" CanBeNull="true" />
+      <Column Name="cod_categoria" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="observacion_equipo" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="fecha_desactivacion" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="estado_equipo" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="service_tag" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="funcionamiento" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="movimiento" Type="System.String" DbType="NChar(100)" CanBeNull="true" />
+      <Column Name="fecha_registro_hhmm" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Instancia" Member="Instancias">
+    <Type Name="Instancia">
+      <Column Name="c_instancia" Type="System.String" DbType="VarChar(100) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="c_sede" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="nombre_instancia" Type="System.String" DbType="VarChar(200) NOT NULL" CanBeNull="false" />
+      <Column Name="x_ubicacion_fisica" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="activo" Type="System.String" DbType="VarChar(3)" CanBeNull="true" />
+      <Column Name="nro_instancia" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="Sede_Instancia" Member="Sede" ThisKey="c_sede" OtherKey="c_sede" Type="Sede" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Perfil" Member="Perfils">
+    <Type Name="Perfil">
+      <Column Name="c_perfil" Type="System.String" DbType="VarChar(100) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="perfil" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="observacion" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="activo" Type="System.String" DbType="VarChar(3)" CanBeNull="true" />
+      <Association Name="Perfil_Personal" Member="Personals" ThisKey="c_perfil" OtherKey="c_perfil" Type="Personal" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Personal" Member="Personals">
+    <Type Name="Personal">
+      <Column Name="doc_entry_personal" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="c_usuario" Type="System.String" DbType="Char(18)" CanBeNull="true" />
+      <Column Name="c_nombres" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="c_ape_paterno" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="c_ape_materno" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="fecha_ingreso" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="c_perfil" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="estado" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="dni" Type="System.String" DbType="VarChar(14) NOT NULL" CanBeNull="false" />
+      <Column Name="c_sede" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="c_instancia" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="fecha_nacimiento" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="escalafon" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="fecha_ingreso_lab" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="fecha_termino_lab" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="nombre_completo" Type="System.String" DbType="VarChar(400)" CanBeNull="true" />
+      <Column Name="unidad_organica" Type="System.String" DbType="VarChar(400)" CanBeNull="true" />
+      <Column Name="area" Type="System.String" DbType="VarChar(400)" CanBeNull="true" />
+      <Column Name="tipo_personal" Type="System.String" DbType="VarChar(3)" CanBeNull="true" />
+      <Association Name="Personal_Registro" Member="Registros" ThisKey="doc_entry_personal" OtherKey="doc_entry_personal" Type="Registro" />
+      <Association Name="Perfil_Personal" Member="Perfil" ThisKey="c_perfil" OtherKey="c_perfil" Type="Perfil" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Personal_historial" Member="Personal_historials">
+    <Type Name="Personal_historial">
+      <Column Name="doc_entry_personal" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="c_usuario" Type="System.String" DbType="Char(18)" CanBeNull="true" />
+      <Column Name="c_nombres" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="c_ape_paterno" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="c_ape_materno" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="fecha_ingreso" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="c_perfil" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="estado" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="dni" Type="System.String" DbType="VarChar(14) NOT NULL" CanBeNull="false" />
+      <Column Name="c_sede" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="c_instancia" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="fecha_nacimiento" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="escalafon" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="fecha_ingreso_lab" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="fecha_termino_lab" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="nombre_completo" Type="System.String" DbType="VarChar(400)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Provincia" Member="Provincias">
+    <Type Name="Provincia">
+      <Column Name="c_provincia" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="c_distrito" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="x_nom_provincia" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Association Name="Distrito_Provincia" Member="Distrito" ThisKey="c_distrito" OtherKey="c_distrito" Type="Distrito" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Registro" Member="Registros">
+    <Type Name="Registro">
+      <Column Name="cod_registro" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="doc_entry_personal" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="cod_equipo" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="fecha_registro" Type="System.String" DbType="VarChar(45) NOT NULL" CanBeNull="false" />
+      <Column Name="fecha_sistema" Type="System.String" DbType="VarChar(45)" CanBeNull="true" />
+      <Column Name="observacion" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Association Name="Equipo_Registro" Member="Equipo" ThisKey="cod_equipo" OtherKey="cod_equipo" Type="Equipo" IsForeignKey="true" />
+      <Association Name="Personal_Registro" Member="Personal" ThisKey="doc_entry_personal" OtherKey="doc_entry_personal" Type="Personal" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Sede" Member="Sedes">
+    <Type Name="Sede">
+      <Column Name="c_sede" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="nombre_sede" Type="System.String" DbType="VarChar(200) NOT NULL" CanBeNull="false" />
+      <Column Name="direccion" Type="System.String" DbType="VarChar(200) NOT NULL" CanBeNull="false" />
+      <Column Name="observacion" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="activo" Type="System.String" DbType="VarChar(3)" CanBeNull="true" />
+      <Column Name="c_distrito" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="c_provincia" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Sede_Instancia" Member="Instancias" ThisKey="c_sede" OtherKey="c_sede" Type="Instancia" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Software" Member="Softwares">
+    <Type Name="Software">
+      <Column Name="cod_software" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="software" Type="System.String" DbType="VarChar(150) NOT NULL" CanBeNull="false" />
+      <Column Name="version" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="cantidad_usuarios" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="nro_orden_compra" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="anio_aquisicion" Type="System.String" DbType="VarChar(45)" CanBeNull="true" />
+      <Column Name="observacion" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="activo" Type="System.String" DbType="VarChar(3)" CanBeNull="true" />
+      <Association Name="Software_Equipo_software" Member="Equipo_softwares" ThisKey="cod_software" OtherKey="cod_software" Type="Equipo_software" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TablaTemporal" Member="TablaTemporals">
+    <Type Name="TablaTemporal">
+      <Column Name="cod_registro" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="doc_entry_personal" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="cod_equipo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="fecha_registro" Type="System.String" DbType="VarChar(45)" CanBeNull="true" />
+      <Column Name="fecha_sistema" Type="System.String" DbType="VarChar(45)" CanBeNull="true" />
+      <Column Name="observacion" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
